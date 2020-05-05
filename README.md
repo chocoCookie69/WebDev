@@ -14,9 +14,9 @@
     
     --deploying the application to https://id.heroku.com
     
-4)This project is mainly to highlight the knowledge gained about the back-end working of the application using server side frameworks.
+5)This project is mainly to highlight the knowledge gained about the back-end working of the application using server side frameworks.
 
-4)I thank Colt Steele who guided throughout this project.
+6)I thank Colt Steele who guided throughout this project.
 
 How to use:
     
