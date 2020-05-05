@@ -22,6 +22,6 @@ How to use:
     
     --Run app.js file which acts as a server.
     
-    --install mongoDB and run mongo daemon on the background to manage the mongo database.
+    --Install mongoDB and run mongo daemon on the background to manage the mongo database.
     
     --Finally, go to local host on any browser.
