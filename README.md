@@ -1,4 +1,4 @@
-1)Simple application which lets the users create their account and also allows them to login and logout.
+1)Simple application which lets the users create their account and also allows them to login and logout.\n
 2)Users can post their photos, add comments, add comments to others posts.
 3)Knowledge Gained:
     --Node JS
