@@ -12,8 +12,16 @@
     
     --connecting the app to the cloud server provided by the MongoDB.
     
-    --deploying the application to heroku.com
+    --deploying the application to https://id.heroku.com
     
 4)This project is mainly to highlight the knowledge gained about the back-end working of the application using server side frameworks.
 
-I thank Colt Steele who guided throughout this project.
+4)I thank Colt Steele who guided throughout this project.
+
+How to use:
+    
+    --Run app.js file which acts as a server.
+    
+    --install mongoDB and run mongo daemon on the background to manage the mongo database.
+    
+    --Finally, go to local host on any browser.
